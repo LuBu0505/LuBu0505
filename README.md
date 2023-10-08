@@ -9,8 +9,8 @@
 </div>
 <hr>
 <br>
-![](https://github.com/LuBu0505/LuBu0505/blob/output/github-contribution-grid-snake-dark.svg)
 
+![](https://github.com/LuBu0505/LuBu0505/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ### 个人简介
@@ -23,11 +23,13 @@
 
   
 ### 仓库信息
-![Azure Wiki](https://github.com/LuBu0505/My-Code/wiki)
+[Azure Wiki](https://github.com/LuBu0505/My-Code/wiki/)
+
 
 
 ### 博客简介
 
+|博客名|链接|
 | :----:| :----: | 
 | 博客圆 |(https://www.javadog.net](https://www.cnblogs.com/lulight) | 
 | 公众号 | []() | 
