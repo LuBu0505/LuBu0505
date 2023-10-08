@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=当在复杂的环境中面临问题，格物之道需：浊而静之徐清，安以动之徐生。 云中，恰是如此！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
+
+
 ![](https://github.com/LuBu0505/LuBu0505/blob/output/github-contribution-grid-snake-dark.svg)
 
 
@@ -15,9 +17,11 @@
 - 🌏 现居: 四川成都
 - 📞 手机:  
 - 🥑 公众号: 编码者
+
   
 ### 仓库信息
-![Azure Wiki](https://github.com/LuBu0505/My-Code/wiki)   
+![Azure Wiki](https://github.com/LuBu0505/My-Code/wiki)
+
 
 ### 博客简介
 
