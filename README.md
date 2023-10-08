@@ -1,9 +1,10 @@
 ### Hello, This is Bu Lu.
 <br>
 <hr>
+<br>
 <div align="center">
   <a href="https://www.cnblogs.com/lulight/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=666&lines=当在复杂的环境中面临问题，格物之道需;浊而静之徐清，安以动之徐生。云中，恰是如此！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=666&lines=当在复杂的环境中面临问题，格物之道需: ;浊而静之徐清，安以动之徐生。;云中，恰是如此！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 <hr>
