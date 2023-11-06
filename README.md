@@ -34,7 +34,7 @@
 | 博客圆 |[https://www.cnblogs.com/lulight](https://www.cnblogs.com/lulight) | 
 | 公众号 | []() | 
 | 51CTO | [https://blog.51cto.com/u_13773780](https://blog.51cto.com/u_13773780) |  
-| 知乎  | [https://www.zhihu.com/people/lu-bu-27-76](https://www.zhihu.com/people/lu-bu-27-76)| 
+| 知乎  | [https://www.zhihu.com/people/lubu123456](https://www.zhihu.com/people/lubu123456)| 
 | 简书  | [https://www.jianshu.com/u/1ff9c6bdb916](https://www.jianshu.com/u/ed38a456b108) |  
 | GitHub | [https://github.com/javadog-net](https://github.com/LuBu0505/LuBu0505)| 
 
